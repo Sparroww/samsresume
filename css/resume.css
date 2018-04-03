@@ -119,6 +119,7 @@ h2 {
 
 .portP {
   font-size: .9rem;
+  max-width: 310px;
 }
 
 .myList {
